@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TuSuerte</string>
+    <string name="bnt_probar_texto">Prueba tu SUERTE</string>
+    <string name="frase_premo">Encontrarás un billete de 50 en la calle</string>
+    <string name="text_inicio">Good Luck!</string>
+    <string-array name="frases_premonitorias">
+        <item>Te tocará la lotería</item>
+        <item>Encontrarás el amor</item>
+        <item>Te van a ascender en el trabajo</item></string-array>
+</resources>
